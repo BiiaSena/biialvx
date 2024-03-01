@@ -1,5 +1,5 @@
 ### Oii,eu sou a Bianca 👋
-<p>🔸 29 anos - RJ<br>🔸 Estudante de desenvolvimento Frontend <br>🔸 Graduanda de Análise de Sistemas pela Universidade Cândido Mendes<br> 🔸 Estudando Javascript atualmente</p>  
+<p>🔸 30 anos - RJ<br>🔸 Estudante de desenvolvimento Frontend <br>🔸 Graduanda de Análise de Sistemas pela Universidade Cândido Mendes<br> 🔸 Estudando Javascript atualmente</p>  
 
 <div style="display: inline_block">
   <a href="https://github.com/biialvx">
